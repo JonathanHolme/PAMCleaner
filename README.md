@@ -28,6 +28,7 @@ If you want to test the program check the "Testfolder", and follow the steps des
 4. Under the tab "Multi Color": Set the measuring light to 440nm, and the actinuating light to 440nm as well.
 
 5. Under the tab "Light Curve": Click "Edit" and then the "Load Parameters" button (top left, folder icon). Select the "LightCurve_Marianne.lcp" preload file. It should contain the following:
+
 | Step | PAR | Intensity | Time/10s |
 |------|-----|-----------|----------|
 |1     |4    | MF2K      |3         |
